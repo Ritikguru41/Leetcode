@@ -1,24 +1,21 @@
 class Solution {
     public String smallestPalindrome(String s) {
-        //babab
-        //b = 3, a = 2
-        //abbba
-        //reverse left half & middle one mean jiska occurence odd rhe 
         int[] freq = new int[26];
+        String middle = "";
         StringBuilder left = new StringBuilder();
-        String middle ="";
-        for(char ch:s.toCharArray())
-        freq[ch - 'a']++;
+        char[] ch = s.toCharArray(); // b, a, b, a, b
+        for(int i =0; i < ch.length; i++)
+        freq[ch[i] - 'a']++;
 
-        for(int i = 0; i < 26; i++){
-            if(freq[i]%2 == 1)
-            middle =  String.valueOf((char)('a' + i));
-
-            for(int j = 0; j < freq[i]/2; j++)
-                left.append((char)('a' + i));
-            
+        for(int j = 0; j < freq.length; j++){
+            if(freq[j]%2 == 1){
+                middle = String.valueOf((char)('a' + j));
+            }
+            for(int k = 0; k < freq[j]/2; k++)
+            left.append((char)('a' + j));
         }
-        String res = left.toString() + middle +left.reverse().toString();
-        return res;
+        String ans = left.toString() + middle + left.reverse().toString();
+        return ans;
+
     }
 }
