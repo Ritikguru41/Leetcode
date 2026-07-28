@@ -14,8 +14,7 @@ class Solution {
             for(int k = 0; k < freq[j]/2; k++)
             left.append((char)('a' + j));
         }
-        String ans = left.toString() + middle + left.reverse().toString();
-        return ans;
+        return left.toString() + middle + left.reverse().toString();
 
     }
 }
