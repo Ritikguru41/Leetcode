@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikguru41/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ritikguru41/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
