@@ -6,9 +6,7 @@ class Solution {
             sum += x%10;
             x = x/10;
         }
-        if(original % sum == 0)
-        return sum;
-        else
-        return -1;
+        if(original % sum == 0) return sum;
+        else return -1;
     }
 }
