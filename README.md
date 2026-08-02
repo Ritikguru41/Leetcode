@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ritikguru41/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Ritikguru41/Leetcode/tree/master/0205-isomorphic-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ritikguru41/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ritikguru41/Leetcode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Ritikguru41/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
