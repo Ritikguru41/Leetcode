@@ -7,10 +7,7 @@ class Solution {
                 n[inspos] = n[i];
                 n[i] = 0;
             }
-            inspos++;
-        }
-     }
-     for(int arr: n)
-     System.out.println(arr);
+            inspos++;}     }
+
     }
 }
