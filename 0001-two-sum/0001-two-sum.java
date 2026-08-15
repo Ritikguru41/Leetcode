@@ -1,11 +1,37 @@
+import java.util.*;
+
 class Solution {
     public int[] twoSum(int[] n, int target) {
-        for(int i =0; i < n.length;i++){
-            for(int j = i+1; j < n.length; j++){
-                if(n[i] + n[j] == target)
-                return new int[]{i, j};
+
+        // Store: [value, original index]
+        int[][] arr = new int[n.length][2];
+
+        for (int i = 0; i < n.length; i++) {
+            arr[i][0] = n[i];
+            arr[i][1] = i;
+        }
+
+        // Sort according to value
+        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
+
+        int i = 0;
+        int j = n.length - 1;
+
+        while (i < j) {
+
+            int sum = arr[i][0] + arr[j][0];
+
+            if (sum == target) {
+                return new int[]{arr[i][1], arr[j][1]};
+            }
+            else if (sum < target) {
+                i++;
+            }
+            else {
+                j--;
             }
         }
+
         return new int[]{};
     }
 }
