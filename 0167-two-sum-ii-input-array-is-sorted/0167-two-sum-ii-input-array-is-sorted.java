@@ -5,12 +5,9 @@ class Solution {
         while(left < right){
             int sum = n[left] + n[right];
             if(sum == target){
-                return new int[]{left+1,right+1};
-            }else if(sum > target){
-                right--;
-            }else{
-                left++;
-            }
+            return new int[]{left+1,right+1};}
+            else if(sum > target){right--;}
+            else{left++;}
         }
         return new int[]{-1,-1};
     }
