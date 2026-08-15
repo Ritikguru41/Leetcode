@@ -1,37 +1,17 @@
-import java.util.*;
-
 class Solution {
     public int[] twoSum(int[] n, int target) {
-
-        // Store: [value, original index]
-        int[][] arr = new int[n.length][2];
+        HashMap<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < n.length; i++) {
-            arr[i][0] = n[i];
-            arr[i][1] = i;
+            int needed = target - n[i];
+
+            if (map.containsKey(needed)) {
+                return new int[]{map.get(needed), i};
+            }
+
+            map.put(n[i], i);
         }
 
-        // Sort according to value
-        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
-
-        int i = 0;
-        int j = n.length - 1;
-
-        while (i < j) {
-
-            int sum = arr[i][0] + arr[j][0];
-
-            if (sum == target) {
-                return new int[]{arr[i][1], arr[j][1]};
-            }
-            else if (sum < target) {
-                i++;
-            }
-            else {
-                j--;
-            }
-        }
-
-        return new int[]{};
+        return new int[]{-1, -1};
     }
 }
