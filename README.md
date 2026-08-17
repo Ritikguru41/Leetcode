@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritikguru41/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ritikguru41/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ritikguru41/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikguru41/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikguru41/Leetcode/tree/master/0027-remove-element) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ritikguru41/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ritikguru41/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikguru41/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikguru41/Leetcode/tree/master/0027-remove-element) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ritikguru41/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
