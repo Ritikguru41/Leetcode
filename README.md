@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikguru41/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikguru41/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Ritikguru41/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritikguru41/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritikguru41/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ritikguru41/Leetcode/tree/master/0283-move-zeroes) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ritikguru41/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikguru41/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikguru41/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ritikguru41/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritikguru41/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ritikguru41/Leetcode/tree/master/0283-move-zeroes) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ritikguru41/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikguru41/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ritikguru41/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritikguru41/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
