@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ritikguru41/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikguru41/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikguru41/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Ritikguru41/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ritikguru41/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritikguru41/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ritikguru41/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritikguru41/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritikguru41/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Ritikguru41/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ritikguru41/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritikguru41/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ritikguru41/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ritikguru41/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritikguru41/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ritikguru41/Leetcode/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ritikguru41/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ritikguru41/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
