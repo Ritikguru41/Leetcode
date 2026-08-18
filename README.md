@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ritikguru41/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Ritikguru41/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ritikguru41/Leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Ritikguru41/Leetcode/tree/master/0258-add-digits) |
 | [3099-harshad-number](https://github.com/Ritikguru41/Leetcode/tree/master/3099-harshad-number) |
 ## Dynamic Programming
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ritikguru41/Leetcode/tree/master/0011-container-with-most-water) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ritikguru41/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
