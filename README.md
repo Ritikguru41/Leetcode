@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritikguru41/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritikguru41/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ritikguru41/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Ritikguru41/Leetcode/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikguru41/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Ritikguru41/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ritikguru41/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ritikguru41/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ritikguru41/Leetcode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ritikguru41/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ritikguru41/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ritikguru41/Leetcode/tree/master/0169-majority-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ritikguru41/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
@@ -71,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ritikguru41/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ritikguru41/Leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ritikguru41/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ritikguru41/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ritikguru41/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Binary Search
 |  |
@@ -104,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ritikguru41/Leetcode/tree/master/0042-trapping-rain-water) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ritikguru41/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
